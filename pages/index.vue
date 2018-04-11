@@ -9,10 +9,8 @@
         Nuxt.js project
       </h2>
       <div class="links">
-        <a
-          href="/contact"
-          target="_blank"
-          class="button--green">Contact</a>
+        <nuxt-link to="/contact"
+          class="button--green">Contact</nuxt-link>
       </div>
     </div>
   </section>

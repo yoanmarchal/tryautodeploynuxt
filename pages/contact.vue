@@ -9,10 +9,8 @@
         Nuxt.js project
       </h2>
       <div class="links">
-        <a
-          href="/"
-          target="_blank"
-          class="button--green">home</a>
+        <nuxt-link to="/"
+          class="button--green">hime</nuxt-link>
       </div>
     </div>
   </section>
