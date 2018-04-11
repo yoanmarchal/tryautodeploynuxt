@@ -1,7 +1,7 @@
 // ajouter seulement `router.base = '/<nom-du-depot>/'` si `DEPLOY_ENV` est `GH_PAGES`
 const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
   router: {
-    base: '/<nom-du-depot>/'
+    base: '/tryautodeploynuxt/'
   }
 } : {}
 
