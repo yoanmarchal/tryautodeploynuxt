@@ -1,5 +1,7 @@
 # nuxt-toghpages
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yoanmarchal/tryautodeploynuxt.svg)](https://greenkeeper.io/)
+
 > Nuxt.js project
 
 ## Build Setup
